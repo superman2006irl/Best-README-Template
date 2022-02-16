@@ -17,7 +17,7 @@
     <img src="images/download.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">FileZilla</h3>
 
   <p align="center">
     project_description
@@ -40,10 +40,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="https://filezilla-project.org/index.php">About The Project</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -65,10 +62,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p>As its name suggests, the File Transfer Protocol (FTP) is a standardized network protocol used to transfer files between a client and a server over the internet or any other TCP/IP network. FTP has been designed to promote sharing of files, across all types of computers. A strength of FTP is the reliable and efficient bulk transfer of files. FTP is popular with website owners and web designers to upload files to the servers of their web hosting company. Another common use case is the exchange of files between companies; FTP is in many organizations the de facto method for transferring large volumes of data.</p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+FileZilla 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
