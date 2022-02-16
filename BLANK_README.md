@@ -1,15 +1,4 @@
 <div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][https://filezilla-project.org/misc/gpl-2.0-standalone.html]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
